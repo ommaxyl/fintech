@@ -1,4 +1,4 @@
-	TbbbkiaisoaauaioUUhe Poetry Foundation is an American literary society that seeks to promote poetry and lyricism in the wider culture. It was formed from Poetry magazine, which it continues to publish, with a 2003 gift of $200 million from philanthropist Ruth Lilly.[1]
+	thshdsj TbbbkiaisoaauaioUUhe Poetry Foundation is an American literary society that seeks to promote poetry and lyricism in the wider culture. It was formed from Poetry magazine, which it continues to publish, with a 2003 gift of $200 million from philanthropist Ruth Lilly.[1]
 
 once you are in the loop. Go right there
 git commit -am "commit message" or git commit -a -m "commit message" ---> will move changes in a tracked file from your woring directory to the repository.

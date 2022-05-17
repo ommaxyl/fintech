@@ -10,3 +10,4 @@ I am in a new line to the file
 We know that the level is very high chief
 I added this line on new_featue branch
 >>>>>>> new_feature
+Please always ensure you cross your t's and dot your i's

@@ -3,5 +3,10 @@
 once you are in the loop. Go right there
 git commit -am "commit message" or git commit -a -m "commit message" ---> will move changes in a tracked file from your woring directory to the repository.
 Anuual loop is going bacjk to what we say
+re stuff added
 New Commit = Old + changeset (c furtherance of this objective, the Foundation runs a blog called Harriet.[3] Poets who have blogged at Harriet on behalf of The Poetry Foundation include Christian Bök, Stephanbbcxnhdsknjkdajsknkajvhvcxnewipowiul<CXMZJV bk nlk csddjkie Burt, Wanda Coleman, Kwame Dawes, Linh Dinh, Camille Dungy, Annie Finch, Forrest Gander, Rigoberto González, Cathy Park Hong, Bhanu Kapil, Ange Mlinko, Eileen Myles, Craig Santos Perez, A.E. Stallings, Edwin Torres, and Patricia Smith. In addition, the Foundation provides several awards for poets and poetry. It also hosts seminars, readings, exhibitions, and a poetry library.
+<<<<<<< HEAD
 I am in a new line to the file
+=======
+I added this line on new_featue branch
+>>>>>>> new_feature
